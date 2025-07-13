@@ -54,7 +54,7 @@ This project is for educational and portfolio purposes.
 
 ## Screenshot 
 
-Dashboard Preview (https://github.com/AntonAbhisheik/Employee-and-Work-Analysis/blob/main/DASHBOARD.png)
+Dashboard Preview (https://github.com/AntonAbhisheik/Sales-and-Product-Analysis/blob/main/DASHBOARD.png)
 
 
 
