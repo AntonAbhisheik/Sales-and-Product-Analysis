@@ -1,6 +1,6 @@
  
 # Sales and Product Analysis (Python + Power BI)
-This project delivers an interactive Sales and Product Analysis dashboard built in Power BI, using cleaned sales data prepared in Python and Excel. The dashboard highlights key business metrics including total sales, profits, top-performing products, and category-wise sales trends.
+This project delivers an interactive Sales and Product Analysis dashboard built in Power BI, using cleaned sales data prepared in Python . The dashboard highlights key business metrics including total sales, profits, top-performing products, and category-wise sales trends.
 
 # 📂 Project Files
 **SALES AND PRODUCT Analysis.pbix** — Power BI report file with interactive visuals.
