@@ -40,17 +40,21 @@ Use the slicers (Month, Sale Type, Payment Mode, Unit of Measure) to interact wi
 
 Explore insights via KPI cards, treemaps, pie charts, line graphs, and bar charts.
 
-# 📸 Dashboard Preview
+## 👨‍💻 Author
 
+**Anton Abhisheik**
 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/anton-abhisheik/) .
 
+---
 
-👨‍💻 Author
-Anton Abhisheik
+## 📎 License
 
-📎 Connect with me on LinkedIn
+This project is for educational and portfolio purposes.
 
-📜 License
-This project is for educational and portfolio showcasing purposes.
+## Screenshot 
+
+Dashboard Preview (https://github.com/AntonAbhisheik/Employee-and-Work-Analysis/blob/main/DASHBOARD.png)
+
 
 
